@@ -29,6 +29,7 @@ int main()
                 temp = cows[j];
                 cows[j] = cows[j + 1];
                 cows[j + 1] = temp;
+                //hahahahahahah again
             }
         }
     }
